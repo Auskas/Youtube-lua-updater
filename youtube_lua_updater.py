@@ -142,3 +142,5 @@ class LuaUpdater:
 if __name__ == '__main__':
     updater = LuaUpdater()
     updater.updater()
+
+__version__ = '0.1'
